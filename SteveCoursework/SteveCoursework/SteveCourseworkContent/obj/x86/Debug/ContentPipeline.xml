@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\Cosmos03.jpg</Source>
+      <Name>Models\Cosmos03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Cosmos03.xnb</Output>
+      <Time>2013-11-20T17:53:02.25+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LaserMap.tga</Source>
+      <Name>Models\LaserMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\LaserMap.xnb</Output>
+      <Time>2013-11-20T18:29:22.874+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\space_frigate_6.obj</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\space_frigate_6_0.xml</Output>
+      <Time>2013-11-20T15:48:56.581+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\laser.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\laser_0.xml</Output>
+      <Time>2013-11-20T18:27:13.446+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\LaserMap.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\LaserMap_0.xnb</Output>
+      <Time>2013-11-20T18:29:22.874+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\laser.fbx</Source>
+      <Name>Models\laser</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">10</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\laser.xnb</Output>
+      <Time>2013-11-20T18:27:13.446+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\laser_0.xml</Key>
+        <Value>2013-11-25T10:08:36.6374+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\LaserMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Bullet_Texture.jpg</Source>
+      <Name>Models\Bullet_Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Bullet_Texture.xnb</Output>
+      <Time>2013-11-25T10:38:34.9654+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\space_frigate_6.obj</Source>
+      <Name>Models\space_frigate_6</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">270</Data>
+        <Data Key="Scale">0.75</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\space_frigate_6.xnb</Output>
+      <Time>2013-11-20T15:48:56.581+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\space_frigate_6_0.xml</Key>
+        <Value>2013-11-25T10:08:36.2524+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\fighter_texture.jpg</Source>
+      <Name>Models\fighter_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\fighter_texture.xnb</Output>
+      <Time>2013-12-09T11:00:21.1598+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fighter.obj</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\fighter_0.xml</Output>
+      <Time>2013-12-09T11:00:21.1538+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fighter.obj</Source>
+      <Name>Models\fighter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">4</Data>
+        <Data Key="RotationX">270</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\fighter.xnb</Output>
+      <Time>2013-12-09T11:00:21.1538+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\fighter_0.xml</Key>
+        <Value>2013-12-09T11:22:57.1658+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\ship.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\ship_0.xml</Output>
+      <Time>2013-12-09T12:10:58.6508+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\FB89320C\ship.fbm\dark_fighter_6_color.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FB89320C\ship.fbm\dark_fighter_6_color_0.xnb</Output>
+      <Time>2013-12-09T12:12:32.6328+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\bullet_1.xml</Output>
+      <Time>2013-12-09T12:27:52.9818+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SPACESHIP.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\SPACESHIP_0.xml</Output>
+      <Time>2013-12-09T12:27:52.9848+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\FCD73418\SPACESHIP.fbm\space_frigate_6_color.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FCD73418\SPACESHIP.fbm\space_frigate_6_color_0.xnb</Output>
+      <Time>2013-12-09T12:28:28.9778+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SPACESHIP.FBX</Source>
+      <Name>Models\SPACESHIP</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">270</Data>
+        <Data Key="Scale">0.3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\SPACESHIP.xnb</Output>
+      <Time>2013-12-09T12:27:52.9848+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\SPACESHIP_0.xml</Key>
+        <Value>2013-12-09T12:28:29.0088+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FCD73418\SPACESHIP.fbm\space_frigate_6_color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\shipshite.FBX</Source>
+      <Name>Models\shipshite</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationX">270</Data>
+        <Data Key="Scale">4</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\shipshite.xnb</Output>
+      <Time>2013-12-09T12:38:34.4518+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\shipshite_0.xml</Key>
+        <Value>2013-12-09T12:39:00.7748+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FD893429\shipshite.fbm\fighter_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\shipshite.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\shipshite_0.xml</Output>
+      <Time>2013-12-09T12:38:34.4518+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\FD893429\shipshite.fbm\fighter_texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FD893429\shipshite.fbm\fighter_texture_0.xnb</Output>
+      <Time>2013-12-09T12:39:00.1738+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\engine.wav</Source>
+      <Name>Audio\engine</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\engine.xnb</Output>
+      <Time>2013-12-12T14:43:39.559+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Power Rangers-8 Bit.mp3</Source>
+      <Name>Audio\Power Rangers-8 Bit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\Power Rangers-8 Bit.xnb</Output>
+      <Extra>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\Power Rangers-8 Bit.wma</Extra>
+      <Time>2013-12-12T14:43:39.575+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ship.FBX</Source>
+      <Name>Models\ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationY">90</Data>
+        <Data Key="Scale">0.15</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\ship.xnb</Output>
+      <Time>2013-12-09T12:10:58.6508+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\ship_0.xml</Key>
+        <Value>2013-12-09T12:12:32.7298+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FB89320C\ship.fbm\dark_fighter_6_color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Audio\laser.wav</Source>
+      <Name>Audio\laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\laser.xnb</Output>
+      <Time>2013-12-12T15:15:43.995+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Cosmos06.jpg</Source>
+      <Name>Models\Cosmos06</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Cosmos06.xnb</Output>
+      <Time>2013-12-12T15:42:10.742+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\space_background.jpg</Source>
+      <Name>Models\space_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\space_background.xnb</Output>
+      <Time>2013-12-12T15:48:29.988+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Controls.png</Source>
+      <Name>Models\Controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Controls.xnb</Output>
+      <Time>2013-12-16T00:31:37.571+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SplashScreen.png</Source>
+      <Name>Models\SplashScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\SplashScreen.xnb</Output>
+      <Time>2013-12-12T17:58:06.255+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Font.spritefont</Source>
+      <Name>Font\Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Font\Font.xnb</Output>
+      <Time>2013-12-15T15:50:22.63+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\gameover.png</Source>
+      <Name>Models\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\gameover.xnb</Output>
+      <Time>2013-12-12T18:04:52.144+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Danger Zone.mp3</Source>
+      <Name>Audio\Danger Zone</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\Danger Zone.xnb</Output>
+      <Extra>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\Danger Zone.wma</Extra>
+      <Time>2013-12-15T15:41:01.865+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet.FBX</Source>
+      <Name>Models\bullet</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="RotationX">90</Data>
+        <Data Key="Scale">0.3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\bullet.xnb</Output>
+      <Time>2013-12-09T12:27:52.9818+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\bullet_1.xml</Key>
+        <Value>2013-12-09T12:28:28.8928+00:00</Value>
+      </Dependency>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCourseworkContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCourseworkContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-20T15:23:34.539+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

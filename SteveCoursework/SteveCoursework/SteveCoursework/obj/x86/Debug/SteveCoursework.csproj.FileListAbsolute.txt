@@ -1,0 +1,33 @@
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\space_frigate_6.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\laser.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Cosmos03.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\LaserMap.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\LaserMap_0.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\SteveCoursework.exe
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\SteveCoursework.pdb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\obj\x86\Debug\SteveCoursework.exe
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\obj\x86\Debug\SteveCoursework.pdb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Bullet.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Bullet_Texture.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\fighter_texture.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\fighter.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\ship.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FB89320C\ship.fbm\dark_fighter_6_color_0.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\SPACESHIP.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FCD73418\SPACESHIP.fbm\space_frigate_6_color_0.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\shipshite.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\FBX\FD893429\shipshite.fbm\fighter_texture_0.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\engine.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\Power Rangers-8 Bit.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\Power Rangers-8 Bit.wma
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\laser.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Cosmos06.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\space_background.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\Controls.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\SplashScreen.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Font\Font.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Models\gameover.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\Danger Zone.xnb
+C:\Users\Steve\documents\visual studio 2010\Projects\SteveCoursework\SteveCoursework\SteveCoursework\bin\x86\Debug\Content\Audio\Danger Zone.wma
